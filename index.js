@@ -56,7 +56,7 @@ function grabData(response) {
       break;
     
       case "View All Roles":
-        viewAllRoles(); //sep function
+        viewAllRoles(); 
      
       break;
 
